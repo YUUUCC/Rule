@@ -43,3 +43,10 @@ payload:
   - DOMAIN-SUFFIX,deepmind.google
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,generativeai.google
+  - DOMAIN,cdn.usefathom.com
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN,generativelanguage.googleapis.com
+  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+  - IP-CIDR,24.199.123.28/32,no-resolve
+  - IP-CIDR,64.23.132.171/32,no-resolve
+  - IP-ASN,20473,no-resolve
