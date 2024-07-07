@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN-SUFFIX,hamreus.com
+  - DOMAIN-SUFFIX,manhuagui.com
+  - DOMAIN-SUFFIX,mhgui.com
