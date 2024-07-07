@@ -31,3 +31,7 @@ payload:
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN,static.cloudflareinsights.com
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,algolia.net
+  - DOMAIN-SUFFIX,api.statsig.com
