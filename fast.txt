@@ -5,7 +5,6 @@ payload:
   - DOMAIN-SUFFIX,fivetiu.com
   - DOMAIN-SUFFIX,ijavtorrent.com
   - DOMAIN-SUFFIX,hotpornfile.org
-  - DOMAIN-KEYWORD,baozimh
   - DOMAIN-SUFFIX,hanman18.com
   - DOMAIN-SUFFIX,wuwucomic.co
   - DOMAIN-KEYWORD,jmcomic
@@ -43,7 +42,6 @@ payload:
   - DOMAIN-SUFFIX,myanimelist.net
   - DOMAIN-SUFFIX,1337x.so
   - DOMAIN-SUFFIX,1337x-status.org
-  - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN-SUFFIX,findtubes.com
   - DOMAIN-SUFFIX,thisav.com
   - DOMAIN-SUFFIX,njav.tv
@@ -62,7 +60,6 @@ payload:
   - DOMAIN-SUFFIX,meta.com
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,tktube.com
-  - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,cms-twdigitalassets.com
   - DOMAIN-SUFFIX,paperswithcode.com
   - DOMAIN-SUFFIX,doi.org
