@@ -17,3 +17,4 @@ payload:
   - DOMAIN-SUFFIX,webofscience.com
   - DOMAIN-SUFFIX,scival.com
   - DOMAIN-SUFFIX,elseviercdn.cn
+  - DOMAIN,i0.hdslb.com
