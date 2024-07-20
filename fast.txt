@@ -83,3 +83,4 @@ payload:
   - DOMAIN-SUFFIX,annas-archive.org
   - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,ipleak.net
+  - DOMAIN-SUFFIX,browserleaks.com
