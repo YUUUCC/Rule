@@ -82,3 +82,4 @@ payload:
   - DOMAIN-SUFFIX,porn-blog.xyz
   - DOMAIN-SUFFIX,annas-archive.org
   - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,ipleak.net
