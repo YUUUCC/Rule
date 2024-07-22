@@ -79,4 +79,6 @@ payload:
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,porn-blog.xyz
   - DOMAIN-SUFFIX,annas-archive.org
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,amazonaws.com
