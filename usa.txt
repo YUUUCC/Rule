@@ -22,8 +22,6 @@ payload:
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,turn.livekit.cloud
   - DOMAIN-KEYWORD,openai
-  - IP-CIDR,24.199.123.28/32
-  - IP-CIDR,64.23.132.171/32
   - DOMAIN-KEYWORD,telegram
   - DOMAIN-SUFFIX,telegram.org
   - DOMAIN-SUFFIX,sms-activate.org
@@ -50,3 +48,4 @@ payload:
   - IP-CIDR,24.199.123.28/32,no-resolve
   - IP-CIDR,64.23.132.171/32,no-resolve
   - IP-ASN,20473,no-resolve
+  - DOMAIN-SUFFIX,pincong.rocks
