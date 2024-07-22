@@ -73,9 +73,7 @@ payload:
   - DOMAIN-SUFFIX,missav.com
   - DOMAIN-SUFFIX,18comic.vip
   - DOMAIN-SUFFIX,huggingface.co
-  - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,carbon.pm
-  - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,githubusercontent.com
