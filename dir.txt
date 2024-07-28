@@ -6,6 +6,7 @@ payload:
   - DOMAIN-KEYWORD,18-comicblade
   - DOMAIN-KEYWORD,18comic-erdtree
   - DOMAIN-KEYWORD,18-comicstellar
+  - DOMAIN-KEYWORD,18-comic-minions
   - DOMAIN-SUFFIX,easyscholar.cc
   - DOMAIN-SUFFIX,bilibili.com
   - DOMAIN-SUFFIX,bilivideo.com
