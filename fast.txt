@@ -82,3 +82,4 @@ payload:
   - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,sehuatang.org
+  - DOMAIN-SUFFIX,jdbstatic.com
