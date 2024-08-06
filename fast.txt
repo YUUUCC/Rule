@@ -5,7 +5,6 @@ payload:
   - DOMAIN-SUFFIX,ijavtorrent.com
   - DOMAIN-SUFFIX,hotpornfile.org
   - DOMAIN-SUFFIX,hanman18.com
-  - DOMAIN-SUFFIX,wuwucomic.co
   - DOMAIN-KEYWORD,jmcomic
   - DOMAIN-KEYWORD,18comic
   - DOMAIN-SUFFIX,github.com
