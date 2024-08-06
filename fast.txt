@@ -83,3 +83,4 @@ payload:
   - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,sehuatang.org
   - DOMAIN-SUFFIX,jdbstatic.com
+  - DOMAIN-SUFFIX,hdslb.com
