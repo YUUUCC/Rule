@@ -14,7 +14,7 @@ payload:
   - DOMAIN-SUFFIX,elsevier.com
   - DOMAIN-SUFFIX,sciencedirectassets.com
   - DOMAIN-SUFFIX,scopus.com
-  - DOMAIN-SUFFIX,scu.edu.cn
+  - DOMAIN-SUFFIX,edu.cn
   - DOMAIN-SUFFIX,webofscience.com
   - DOMAIN-SUFFIX,scival.com
   - DOMAIN-SUFFIX,elseviercdn.cn
