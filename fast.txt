@@ -83,3 +83,4 @@ payload:
   - DOMAIN-SUFFIX,sehuatang.org
   - DOMAIN-SUFFIX,jdbstatic.com
   - DOMAIN-SUFFIX,hdslb.com
+  - DOMAIN-SUFFIX,metacubex.one
