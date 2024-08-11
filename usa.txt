@@ -22,8 +22,6 @@ payload:
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,turn.livekit.cloud
   - DOMAIN-KEYWORD,openai
-  - DOMAIN-KEYWORD,telegram
-  - DOMAIN-SUFFIX,telegram.org
   - DOMAIN-SUFFIX,sms-activate.org
   - DOMAIN-SUFFIX,torrentgalaxy.to
   - DOMAIN-SUFFIX,openai.com
