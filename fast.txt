@@ -86,3 +86,4 @@ payload:
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,mat6tube.com
   - DOMAIN-SUFFIX,pvvstream.pro
+  - DOMAIN-SUFFIX,pythonhosted.org
