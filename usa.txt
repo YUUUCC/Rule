@@ -26,7 +26,6 @@ payload:
   - DOMAIN-SUFFIX,torrentgalaxy.to
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,claude.ai
   - DOMAIN,static.cloudflareinsights.com
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,algolia.net
@@ -39,8 +38,6 @@ payload:
   - DOMAIN-SUFFIX,deepmind.google
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,generativeai.google
-  - DOMAIN,cdn.usefathom.com
-  - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN,generativelanguage.googleapis.com
   - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
   - IP-CIDR,24.199.123.28/32,no-resolve
