@@ -88,4 +88,3 @@ payload:
   - DOMAIN-SUFFIX,pvvstream.pro
   - DOMAIN-SUFFIX,pythonhosted.org
   - DOMAIN-SUFFIX,sagernet.org
-  - DOMAIN-SUFFIX,technical.city
