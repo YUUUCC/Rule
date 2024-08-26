@@ -23,3 +23,5 @@ payload:
   - DOMAIN-SUFFIX,editorialmanager.com
   - DOMAIN-SUFFIX,wolterskluwer.io
   - DOMAIN-SUFFIX,uptodate.com
+  - DOMAIN-SUFFIX,18comic-jjks
+  - DOMAIN-SUFFIX,18comic-gura
