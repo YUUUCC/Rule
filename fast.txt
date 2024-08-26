@@ -89,3 +89,4 @@ payload:
   - DOMAIN-SUFFIX,pythonhosted.org
   - DOMAIN-SUFFIX,sagernet.org
   - DOMAIN-SUFFIX,python.org
+  - DOMAIN-SUFFIX,cnblogs.com
