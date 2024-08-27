@@ -23,3 +23,5 @@ payload:
   - DOMAIN-SUFFIX,uptodate.com
   - DOMAIN-SUFFIX,18comic-jjks
   - DOMAIN-SUFFIX,18comic-gura
+  - DOMAIN-SUFFIX,bilibili.com
+  - DOMAIN-SUFFIX,bilivideo.com
