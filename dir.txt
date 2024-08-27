@@ -10,8 +10,6 @@ payload:
   - DOMAIN-KEYWORD,18-comic-minions1
   - DOMAIN-KEYWORD,18comic-deadp
   - DOMAIN-SUFFIX,easyscholar.cc
-  - DOMAIN-SUFFIX,bilibili.com
-  - DOMAIN-SUFFIX,bilivideo.com
   - DOMAIN-SUFFIX,wiley.com
   - DOMAIN-SUFFIX,elsevier.com
   - DOMAIN-SUFFIX,sciencedirectassets.com
