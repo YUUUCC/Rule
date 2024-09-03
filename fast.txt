@@ -5,8 +5,6 @@ payload:
   - DOMAIN-SUFFIX,ijavtorrent.com
   - DOMAIN-SUFFIX,hotpornfile.org
   - DOMAIN-SUFFIX,hanman18.com
-  - DOMAIN-KEYWORD,jmcomic
-  - DOMAIN-KEYWORD,18comic
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,githubcopilot.com
   - DOMAIN-SUFFIX,visualstudio.com
@@ -69,7 +67,6 @@ payload:
   - DOMAIN-SUFFIX,mikanani.me
   - DOMAIN-SUFFIX,miobt.com
   - DOMAIN-SUFFIX,missav.com
-  - DOMAIN-SUFFIX,18comic.vip
   - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,carbon.pm
   - DOMAIN-SUFFIX,gstatic.com
