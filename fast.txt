@@ -87,3 +87,4 @@ payload:
   - DOMAIN-SUFFIX,sagernet.org
   - DOMAIN-SUFFIX,python.org
   - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,edmgr.com
