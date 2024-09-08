@@ -89,3 +89,4 @@ payload:
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,edmgr.com
   - DOMAIN-KEYWORD,docker
+  - DOMAIN-SUFFIX,mozilla.org
