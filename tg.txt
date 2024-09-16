@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,telesco.pe
   - DOMAIN-SUFFIX,tg.dev
   - DOMAIN-SUFFIX,tx.me
+  - DOMAIN-SUFFIX,linkvertise.com
   - DOMAIN-SUFFIX,usercontent.dev
   - DOMAIN-KEYWORD,nicegram
   - PROCESS-NAME,Telegram.exe
