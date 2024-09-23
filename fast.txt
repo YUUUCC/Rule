@@ -90,3 +90,4 @@ payload:
   - DOMAIN-SUFFIX,edmgr.com
   - DOMAIN-KEYWORD,docker
   - DOMAIN-SUFFIX,mozilla.org
+  - DOMAIN-SUFFIX,mit.edu
