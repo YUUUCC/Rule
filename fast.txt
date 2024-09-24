@@ -91,3 +91,4 @@ payload:
   - DOMAIN-KEYWORD,docker
   - DOMAIN-SUFFIX,mozilla.org
   - DOMAIN-SUFFIX,mit.edu
+  - DOMAIN-SUFFIX,mozilla.com
