@@ -45,3 +45,5 @@ payload:
   - IP-ASN,20473,no-resolve
   - DOMAIN-SUFFIX,pincong.rocks
   - DOMAIN-SUFFIX,qbittorrent.org
+  - DOMAIN-SUFFIX,notebooklm.google
+  - DOMAIN,notebooklm.google.com
