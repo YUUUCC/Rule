@@ -92,3 +92,4 @@ payload:
   - DOMAIN-SUFFIX,mozilla.org
   - DOMAIN-SUFFIX,mit.edu
   - DOMAIN-SUFFIX,mozilla.com
+  - DOMAIN-SUFFIX,v2rayssr.com
