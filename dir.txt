@@ -25,3 +25,4 @@ payload:
   - DOMAIN-SUFFIX,18comic-gura
   - DOMAIN-SUFFIX,bilibili.com
   - DOMAIN-SUFFIX,bilivideo.com
+  - PROCESS-NAME,qbittorrent-ee-nox
