@@ -95,3 +95,4 @@ payload:
   - DOMAIN-SUFFIX,v2rayssr.com
   - DOMAIN-SUFFIX,crystalmark.info
   - DOMAIN-SUFFIX,cpu-monkey.com
+  - DOMAIN-SUFFIX,debian.org
