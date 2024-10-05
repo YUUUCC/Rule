@@ -96,5 +96,4 @@ payload:
   - DOMAIN-SUFFIX,crystalmark.info
   - DOMAIN-SUFFIX,cpu-monkey.com
   - DOMAIN-SUFFIX,debian.org
-  - DOMAIN-SUFFIX,wkgo.xyz
-  - DOMAIN-SUFFIX,noname.pub
+  - DOMAIN-SUFFIX,scikit-learn.org
