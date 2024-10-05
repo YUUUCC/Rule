@@ -97,3 +97,4 @@ payload:
   - DOMAIN-SUFFIX,cpu-monkey.com
   - DOMAIN-SUFFIX,debian.org
   - DOMAIN-SUFFIX,wkgo.xyz
+  - DOMAIN-SUFFIX,noname.pub
