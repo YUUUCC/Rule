@@ -31,7 +31,6 @@ payload:
   - DOMAIN-SUFFIX,1point3acres.com
   - DOMAIN-SUFFIX,overleaf.com
   - DOMAIN-SUFFIX,imdb.com
-  - DOMAIN-SUFFIX,arxiv.org
   - DOMAIN-SUFFIX,topcpu.net
   - DOMAIN-SUFFIX,web-check.xyz
   - DOMAIN-SUFFIX,redditmedia.com
@@ -97,4 +96,3 @@ payload:
   - DOMAIN-SUFFIX,cpu-monkey.com
   - DOMAIN-SUFFIX,debian.org
   - DOMAIN-SUFFIX,scikit-learn.org
-  - DOMAIN-SUFFIX,ucla.edu
