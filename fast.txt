@@ -97,4 +97,4 @@ payload:
   - DOMAIN-SUFFIX,debian.org
   - DOMAIN-SUFFIX,scikit-learn.org
   - DOMAIN-SUFFIX,arxiv.org
-  - DOMAIN-SUFFIX,price.hk
+  - DOMAIN-SUFFIX,price.com.hk
