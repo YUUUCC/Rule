@@ -97,5 +97,3 @@ payload:
   - DOMAIN-SUFFIX,debian.org
   - DOMAIN-SUFFIX,scikit-learn.org
   - DOMAIN-SUFFIX,arxiv.org
-  - DOMAIN-SUFFIX,price.com.hk
-  - DOMAIN-SUFFIX,tangsanbooks.com
