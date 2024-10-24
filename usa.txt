@@ -47,3 +47,4 @@ payload:
   - DOMAIN-SUFFIX,qbittorrent.org
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN,notebooklm.google.com
+  - DOMAIN-SUFFIX,groq.com
