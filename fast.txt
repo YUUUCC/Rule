@@ -87,7 +87,6 @@ payload:
   - DOMAIN-SUFFIX,python.org
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,edmgr.com
-  - DOMAIN-KEYWORD,docker
   - DOMAIN-SUFFIX,mozilla.org
   - DOMAIN-SUFFIX,mit.edu
   - DOMAIN-SUFFIX,mozilla.com
@@ -97,3 +96,5 @@ payload:
   - DOMAIN-SUFFIX,debian.org
   - DOMAIN-SUFFIX,scikit-learn.org
   - DOMAIN-SUFFIX,arxiv.org
+  - DOMAIN-SUFFIX,docker.io
+  - DOMAIN,production.cloudflare.docker.com
