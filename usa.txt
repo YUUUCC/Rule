@@ -48,4 +48,4 @@ payload:
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN,notebooklm.google.com
   - DOMAIN-SUFFIX,groq.com
-  - DOMAIN,podcasts.apple.com
+  - DOMAIN-SUFFIX,podcasts.apple.com
