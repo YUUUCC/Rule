@@ -98,3 +98,4 @@ payload:
   - DOMAIN-SUFFIX,arxiv.org
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN,production.cloudflare.docker.com
+  - DOMAIN,podcasts.apple.com
