@@ -99,3 +99,4 @@ payload:
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN,production.cloudflare.docker.com
   - DOMAIN-SUFFIX,citationstyles.org
+  - DOMAIN-SUFFIX,subaibaiys.com
