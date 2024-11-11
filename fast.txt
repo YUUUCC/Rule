@@ -4,7 +4,6 @@ payload:
   - DOMAIN-SUFFIX,fivetiu.com
   - DOMAIN-SUFFIX,ijavtorrent.com
   - DOMAIN-SUFFIX,hotpornfile.org
-  - DOMAIN-SUFFIX,hanman18.com
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,githubcopilot.com
   - DOMAIN-SUFFIX,visualstudio.com
