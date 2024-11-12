@@ -49,6 +49,9 @@ payload:
   - DOMAIN,notebooklm.google.com
   - DOMAIN-SUFFIX,groq.com
   - DOMAIN-SUFFIX,podcasts.apple.com
+  - DOMAIN,cdn.usefathom.com
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,github.blog
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,github.io
