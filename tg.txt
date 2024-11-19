@@ -31,3 +31,4 @@ payload:
   - PROCESS-NAME,telegram-desktop
   - PROCESS-NAME,tw.nekomimi.nekogram
   - DOMAIN-KEYWORD,telegram
+  - DOMAIN-SUFFIX,dazn.com
