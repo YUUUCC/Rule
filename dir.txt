@@ -25,5 +25,6 @@ payload:
   - DOMAIN-SUFFIX,18comic-gura
   - DOMAIN-SUFFIX,bilibili.com
   - DOMAIN-SUFFIX,bilivideo.com
+  - DOMAIN-SUFFIX,ipify.org
   - PROCESS-NAME,qbittorrent-ee-nox
   - DST-PORT,22
