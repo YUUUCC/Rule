@@ -92,6 +92,7 @@ payload:
   - DOMAIN-SUFFIX,scikit-learn.org
   - DOMAIN-SUFFIX,arxiv.org
   - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,nordcdn.com
   - DOMAIN,production.cloudflare.docker.com
   - DOMAIN-SUFFIX,citationstyles.org
   - DOMAIN-SUFFIX,subaibaiys.com
