@@ -50,7 +50,6 @@ payload:
   - DOMAIN-SUFFIX,mangadex.org
   - DOMAIN-SUFFIX,pornhub.com
   - DOMAIN-SUFFIX,meta.com
-  - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,tktube.com
   - DOMAIN-SUFFIX,cms-twdigitalassets.com
   - DOMAIN-SUFFIX,paperswithcode.com
