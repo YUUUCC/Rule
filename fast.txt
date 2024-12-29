@@ -95,4 +95,4 @@ payload:
   - DOMAIN,production.cloudflare.docker.com
   - DOMAIN-SUFFIX,citationstyles.org
   - DOMAIN-SUFFIX,subaibaiys.com
-  - IP-CIDR,172.207.19.241
+  - IP-CIDR,172.207.19.241/22,no-resolve
