@@ -19,4 +19,3 @@ payload:
   - DOMAIN-SUFFIX,bilivideo.com
   - DOMAIN-SUFFIX,ipify.org
   - DST-PORT,22
-  - DOMAIN-SUFFIX,shinyapps.io
