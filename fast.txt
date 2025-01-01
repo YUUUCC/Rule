@@ -96,3 +96,4 @@ payload:
   - DOMAIN-SUFFIX,citationstyles.org
   - DOMAIN-SUFFIX,subaibaiys.com
   - DOMAIN-SUFFIX,azure.com
+  - DOMAIN-SUFFIX,shinyapps.io
