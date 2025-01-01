@@ -28,3 +28,4 @@ payload:
   - DOMAIN-SUFFIX,ipify.org
   - PROCESS-NAME,qbittorrent-ee-nox
   - DST-PORT,22
+  - DOMAIN-SUFFIX,shinyapps.io
