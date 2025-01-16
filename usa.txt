@@ -61,3 +61,4 @@ payload:
   - DOMAIN-SUFFIX,githubcopilot.com
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,usatoday.com
+  - DOMAIN-SUFFIX,doximity.com
