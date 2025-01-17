@@ -32,3 +32,4 @@ payload:
   - PROCESS-NAME,tw.nekomimi.nekogram
   - DOMAIN-KEYWORD,telegram
   - DOMAIN-SUFFIX,deepl.com
+  - DOMAIN-SUFFIX,openrouter.ai
