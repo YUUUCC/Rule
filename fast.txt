@@ -97,4 +97,3 @@ payload:
   - DOMAIN-SUFFIX,subaibaiys.com
   - DOMAIN-SUFFIX,azure.com
   - DOMAIN-SUFFIX,patreonusercontent.com
-  - DOMAIN-SUFFIX,piaotia.com
