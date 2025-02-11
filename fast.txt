@@ -102,3 +102,4 @@ payload:
   - DOMAIN-SUFFIX,zillow.net
   - DOMAIN-SUFFIX,usvisascheduling.com
   - DOMAIN-SUFFIX,ustraveldocs.com
+  - DOMAIN-SUFFIX,redditspace.com
