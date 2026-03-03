@@ -103,3 +103,4 @@ payload:
   - DOMAIN-SUFFIX,usvisascheduling.com
   - DOMAIN-SUFFIX,ustraveldocs.com
   - DOMAIN-SUFFIX,redditspace.com
+  - DOMAIN-SUFFIX,06se.com
