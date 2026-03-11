@@ -104,3 +104,5 @@ payload:
   - DOMAIN-SUFFIX,ustraveldocs.com
   - DOMAIN-SUFFIX,redditspace.com
   - DOMAIN-SUFFIX,06se.com
+  - DOMAIN-SUFFIX,aish123.vip
+  - DOMAIN-SUFFIX,aibj.fun
