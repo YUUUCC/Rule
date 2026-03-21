@@ -5,3 +5,5 @@ payload:
   - DOMAIN-SUFFIX,techcrunch.com
   - DOMAIN-SUFFIX,hanman18.com
   - DOMAIN-SUFFIX,shinyapps.io
+  - DOMAIN-SUFFIX,uscardforum.com
+  - DOMAIN-SUFFIX,uscreditcardguide.com
