@@ -64,3 +64,4 @@ payload:
   - DOMAIN-SUFFIX,doximity.com
   - DOMAIN-SUFFIX,kravorn.us
   - DOMAIN-SUFFIX,kravorn.com
+  - DOMAIN-SUFFIX,olt.com
