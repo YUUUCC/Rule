@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,shinyapps.io
   - DOMAIN-SUFFIX,uscardforum.com
   - DOMAIN-SUFFIX,uscreditcardguide.com
+  - DOMAIN-SUFFIX,netcup.com
