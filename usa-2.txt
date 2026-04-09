@@ -1,0 +1,10 @@
+payload:
+  - DOMAIN-SUFFIX,jable.tv
+  - DOMAIN-SUFFIX,freecreditscore.com
+  - DOMAIN-SUFFIX,notarycam.com
+  - DOMAIN-SUFFIX,uscardforum.com
+  - DOMAIN-SUFFIX,uscreditcardguide.com
+  - DOMAIN-SUFFIX,netcup.com
+  - DOMAIN-SUFFIX,pincong.rocks
+  - DOMAIN-SUFFIX,qbittorrent.org
+  - DOMAIN-SUFFIX,06se.com
