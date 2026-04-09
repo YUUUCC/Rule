@@ -16,7 +16,6 @@ payload:
   - DOMAIN-SUFFIX,z-library.se
   - DOMAIN-SUFFIX,theaba.org
   - DOMAIN-SUFFIX,datagridxl.com
-  - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,bootstrapcdn.com
   - DOMAIN-SUFFIX,tapfog.com
   - DOMAIN-SUFFIX,netlify.app
@@ -49,7 +48,6 @@ payload:
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,mangadex.org
   - DOMAIN-SUFFIX,pornhub.com
-  - DOMAIN-SUFFIX,meta.com
   - DOMAIN-SUFFIX,tktube.com
   - DOMAIN-SUFFIX,cms-twdigitalassets.com
   - DOMAIN-SUFFIX,paperswithcode.com
