@@ -109,3 +109,4 @@ payload:
   - DOMAIN-SUFFIX,id.me
   - DOMAIN-SUFFIX,freecreditscore.com
   - DOMAIN-SUFFIX,notarycam.com
+  - DOMAIN-SUFFIX,meta.ai
