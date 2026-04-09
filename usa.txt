@@ -62,6 +62,49 @@ payload:
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,usatoday.com
   - DOMAIN-SUFFIX,doximity.com
-  - DOMAIN-SUFFIX,kravorn.us
   - DOMAIN-SUFFIX,kravorn.com
   - DOMAIN-SUFFIX,olt.com
+  - DOMAIN-SUFFIX,uscardforum.com
+  - DOMAIN-SUFFIX,uscreditcardguide.com
+  - DOMAIN-SUFFIX,netcup.com
+  - DOMAIN-SUFFIX,deepl.com
+  - DOMAIN-SUFFIX,openrouter.ai
+  - DOMAIN-SUFFIX,apis.google.com
+  - DOMAIN-KEYWORD,colab
+  - DOMAIN-KEYWORD,developerprofiles
+  - DOMAIN-KEYWORD,generativelanguage
+  - DOMAIN,chat.openai.com.cdn.cloudflare.net
+  - DOMAIN,openai-api.arkoselabs.com
+  - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+  - DOMAIN,openaicomproductionae4b.blob.core.windows.net
+  - DOMAIN,production-openaicom-storage.azureedge.net
+  - DOMAIN-SUFFIX,openaicom.imgix.net
+  - IP-CIDR,24.199.123.28/32
+  - IP-CIDR,64.23.132.171/32
+  - IP-ASN,20473
+  - DOMAIN-SUFFIX,atom.io
+  - DOMAIN-SUFFIX,dependabot.com
+  - DOMAIN-SUFFIX,ghcr.io
+  - DOMAIN-SUFFIX,git.io
+  - DOMAIN-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net
+  - DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com
+  - DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
+  - DOMAIN-SUFFIX,github.community
+  - DOMAIN-SUFFIX,github.dev
+  - DOMAIN-SUFFIX,githubapp.com
+  - DOMAIN-SUFFIX,githubhackathon.com
+  - DOMAIN-SUFFIX,githubnext.com
+  - DOMAIN-SUFFIX,githubpreview.dev
+  - DOMAIN-SUFFIX,githubstatus.com
+  - DOMAIN-SUFFIX,githubuniverse.com
+  - DOMAIN-SUFFIX,myoctocat.com
+  - DOMAIN-SUFFIX,npm.community
+  - DOMAIN-SUFFIX,npmjs.com
+  - DOMAIN-SUFFIX,npmjs.org
+  - DOMAIN-SUFFIX,opensource.guide
+  - DOMAIN-SUFFIX,rawgit.com
+  - DOMAIN-SUFFIX,repo.new
+  - DOMAIN-SUFFIX,thegithubshop.com
+  - DOMAIN-KEYWORD,github
+  - DOMAIN-SUFFIX,irs.gov
+  - DOMAIN-SUFFIX,id.me
