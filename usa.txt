@@ -107,3 +107,5 @@ payload:
   - DOMAIN-KEYWORD,github
   - DOMAIN-SUFFIX,irs.gov
   - DOMAIN-SUFFIX,id.me
+  - DOMAIN-SUFFIX,freecreditscore.com
+  - DOMAIN-SUFFIX,notarycam.com
