@@ -6,4 +6,3 @@ payload:
   - DOMAIN-SUFFIX,hanman18.com
   - DOMAIN-SUFFIX,shinyapps.io
   - DOMAIN-SUFFIX,tradingview.com
-  - DOMAIN-SUFFIX,ggvision.net
