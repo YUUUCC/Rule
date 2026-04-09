@@ -45,7 +45,6 @@ payload:
   - DOMAIN-SUFFIX,yts.mx
   - DOMAIN-SUFFIX,baidupcs.com
   - DOMAIN-SUFFIX,sourceforge.net
-  - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,mangadex.org
   - DOMAIN-SUFFIX,pornhub.com
   - DOMAIN-SUFFIX,tktube.com
