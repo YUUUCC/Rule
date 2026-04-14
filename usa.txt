@@ -104,3 +104,6 @@ payload:
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,zuiskra.com
   - DOMAIN-SUFFIX,kravorn.com
+  - DOMAIN-SUFFIX,freecreditscore.com
+  - DOMAIN-SUFFIX,notarycam.com
+  - DOMAIN-SUFFIX,experiancs.com
