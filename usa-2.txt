@@ -6,3 +6,6 @@ payload:
   - DOMAIN-SUFFIX,pincong.rocks
   - DOMAIN-SUFFIX,qbittorrent.org
   - DOMAIN-SUFFIX,06se.com
+  - DOMAIN-SUFFIX,freecreditscore.com
+  - DOMAIN-SUFFIX,notarycam.com
+  - DOMAIN-SUFFIX,experiancs.com
