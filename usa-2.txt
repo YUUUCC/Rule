@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,freecreditscore.com
   - DOMAIN-SUFFIX,notarycam.com
   - DOMAIN-SUFFIX,experiancs.com
+  - DOMAIN-SUFFIX,zuiskra.com
