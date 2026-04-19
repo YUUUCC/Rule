@@ -102,5 +102,4 @@ payload:
   - DOMAIN-SUFFIX,irs.gov
   - DOMAIN-SUFFIX,id.me
   - DOMAIN-SUFFIX,meta.ai
-  - DOMAIN-SUFFIX,zuiskra.com
   - DOMAIN-SUFFIX,kravorn.com
