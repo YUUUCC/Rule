@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,notarycam.com
   - DOMAIN-SUFFIX,experiancs.com
   - DOMAIN-SUFFIX,zuiskra.com
+  - DOMAIN-SUFFIX,booking.com
