@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,shinyapps.io
   - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-KEYWORD,hsex
+  - DOMAIN-SUFFIX,nssurge.com
