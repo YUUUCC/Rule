@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-KEYWORD,hsex
   - DOMAIN-SUFFIX,nssurge.com
+  - DOMAIN-SUFFIX,sfktv66.com
