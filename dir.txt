@@ -21,3 +21,4 @@ payload:
   - DST-PORT,22
   - DOMAIN-SUFFIX,schwab.com
   - DOMAIN-KEYWORD,schwab
+  - DOMAIN-SUFFIX,wallst.com
