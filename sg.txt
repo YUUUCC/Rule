@@ -9,3 +9,5 @@ payload:
   - DOMAIN-KEYWORD,hsex
   - DOMAIN-SUFFIX,nssurge.com
   - DOMAIN-SUFFIX,coalcloud.net
+  - DOMAIN-SUFFIX,18comic.vip
+  - DOMAIN-SUFFIX,18comic.ink
