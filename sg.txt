@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,coalcloud.net
   - DOMAIN-SUFFIX,18comic.vip
   - DOMAIN-SUFFIX,18comic.ink
+  - DOMAIN-SUFFIX,mauritshuis.nl
