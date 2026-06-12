@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,experiancs.com
   - DOMAIN-SUFFIX,zuiskra.com
   - DOMAIN-SUFFIX,booking.com
+  - DOMAIN-SUFFIX,xiguashuwu1.com
