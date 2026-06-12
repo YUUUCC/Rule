@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,18comic.vip
   - DOMAIN-SUFFIX,18comic.ink
   - DOMAIN-SUFFIX,sinyalee.com
+  - DOMAIN-SUFFIX,xiguashuwu1.com
