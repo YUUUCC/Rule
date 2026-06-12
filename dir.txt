@@ -23,3 +23,4 @@ payload:
   - DOMAIN-KEYWORD,schwab
   - DOMAIN-SUFFIX,wallst.com
   - DOMAIN-SUFFIX,mauritshuis.nl
+  - DOMAIN-SUFFIX,xiguashuwu1.com
