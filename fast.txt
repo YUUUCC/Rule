@@ -103,3 +103,4 @@ payload:
   - DOMAIN-SUFFIX,06se.com
   - DOMAIN-SUFFIX,aish123.vip
   - DOMAIN-SUFFIX,aibj.fun
+  - DOMAIN-SUFFIX,dler.pro
