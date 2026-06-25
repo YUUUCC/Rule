@@ -6,8 +6,6 @@ payload:
   - DOMAIN-SUFFIX,hotpornfile.org
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,pypi.org
-  - DOMAIN-SUFFIX,x.com
-  - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,vimeo.com
   - DOMAIN-SUFFIX,ctfassets.net
@@ -34,13 +32,10 @@ payload:
   - DOMAIN-SUFFIX,1337x.so
   - DOMAIN-SUFFIX,1337x-status.org
   - DOMAIN-SUFFIX,findtubes.com
-  - DOMAIN-SUFFIX,thisav.com
-  - DOMAIN-SUFFIX,njav.tv
   - DOMAIN-SUFFIX,sb-cd.com
   - DOMAIN-SUFFIX,phind.com
   - DOMAIN-SUFFIX,torrentgalaxy.to
   - DOMAIN-SUFFIX,notion.so
-  - DOMAIN-SUFFIX,javdb.com
   - DOMAIN-SUFFIX,xvideos-cdn.com
   - DOMAIN-SUFFIX,yts.mx
   - DOMAIN-SUFFIX,baidupcs.com
@@ -51,14 +46,12 @@ payload:
   - DOMAIN-SUFFIX,cms-twdigitalassets.com
   - DOMAIN-SUFFIX,paperswithcode.com
   - DOMAIN-SUFFIX,doi.org
-  - DOMAIN-SUFFIX,hsex.men
   - DOMAIN-SUFFIX,bluestacks.com
   - DOMAIN-SUFFIX,qbittorrent.org
   - DOMAIN-SUFFIX,acg.rip
   - DOMAIN-SUFFIX,bangumi.moe
   - DOMAIN-SUFFIX,mikanani.me
   - DOMAIN-SUFFIX,miobt.com
-  - DOMAIN-SUFFIX,missav.com
   - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,carbon.pm
   - DOMAIN-SUFFIX,gstatic.com
@@ -68,8 +61,6 @@ payload:
   - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,amazonaws.com
-  - DOMAIN-SUFFIX,sehuatang.org
-  - DOMAIN-SUFFIX,jdbstatic.com
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,mat6tube.com
   - DOMAIN-SUFFIX,pvvstream.pro
@@ -100,7 +91,17 @@ payload:
   - DOMAIN-SUFFIX,usvisascheduling.com
   - DOMAIN-SUFFIX,ustraveldocs.com
   - DOMAIN-SUFFIX,redditspace.com
-  - DOMAIN-SUFFIX,06se.com
   - DOMAIN-SUFFIX,aish123.vip
   - DOMAIN-SUFFIX,aibj.fun
-  - DOMAIN-SUFFIX,dler.pro
+  - DOMAIN-SUFFIX,hamreus.com
+  - DOMAIN-SUFFIX,manhuagui.com
+  - DOMAIN-SUFFIX,mhgui.com
+  - DOMAIN-SUFFIX,techcrunch.com
+  - DOMAIN-SUFFIX,hanman18.com
+  - DOMAIN-SUFFIX,shinyapps.io
+  - DOMAIN-SUFFIX,tradingview.com
+  - DOMAIN-SUFFIX,nssurge.com
+  - DOMAIN-SUFFIX,coalcloud.net
+  - DOMAIN-SUFFIX,18comic.vip
+  - DOMAIN-SUFFIX,18comic.ink
+  - DOMAIN-SUFFIX,sinyalee.com
