@@ -1,14 +1,7 @@
 payload:
-  - DOMAIN-SUFFIX,hamreus.com
-  - DOMAIN-SUFFIX,manhuagui.com
-  - DOMAIN-SUFFIX,mhgui.com
-  - DOMAIN-SUFFIX,techcrunch.com
-  - DOMAIN-SUFFIX,hanman18.com
-  - DOMAIN-SUFFIX,shinyapps.io
-  - DOMAIN-SUFFIX,tradingview.com
+  - DOMAIN-SUFFIX,jable.tv
+  - DOMAIN-SUFFIX,missav.ws
+  - DOMAIN-SUFFIX,javdb.com
+  - DOMAIN-SUFFIX,06se.com
   - DOMAIN-KEYWORD,hsex
-  - DOMAIN-SUFFIX,nssurge.com
-  - DOMAIN-SUFFIX,coalcloud.net
-  - DOMAIN-SUFFIX,18comic.vip
-  - DOMAIN-SUFFIX,18comic.ink
-  - DOMAIN-SUFFIX,sinyalee.com
+  - DOMAIN-KEYWORD,missav
