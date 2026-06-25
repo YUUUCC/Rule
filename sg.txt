@@ -5,3 +5,7 @@ payload:
   - DOMAIN-SUFFIX,06se.com
   - DOMAIN-KEYWORD,hsex
   - DOMAIN-KEYWORD,missav
+  - DOMAIN-SUFFIX,thisav.com
+  - DOMAIN-SUFFIX,njav.tv
+  - DOMAIN-SUFFIX,sehuatang.org
+  - DOMAIN-SUFFIX,jdbstatic.com
