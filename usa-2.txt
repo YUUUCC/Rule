@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,experiancs.com
   - DOMAIN-SUFFIX,zuiskra.com
   - DOMAIN-SUFFIX,booking.com
+  - DOMAIN-SUFFIX,jinjier.art
   - DOMAIN-SUFFIX,xiguashuwu1.com
   - DOMAIN-SUFFIX,mangabz.com
   - DOMAIN-SUFFIX,openwrt.org
