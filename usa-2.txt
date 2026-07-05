@@ -176,9 +176,7 @@ payload:
   - DOMAIN-SUFFIX,vine.co
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,pirateship.com
-  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-KEYWORD,twitter
-  - DOMAIN-KEYWORD,cloudflare
   - IP-CIDR,192.133.76.0/22
   - IP-CIDR,199.59.148.0/22
   - IP-CIDR,199.96.56.0/21
