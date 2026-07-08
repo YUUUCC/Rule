@@ -17,8 +17,7 @@ payload:
   - DOMAIN-SUFFIX,uptodate.com
   - DOMAIN-SUFFIX,bilibili.com
   - DOMAIN-SUFFIX,bilivideo.com
-  - DOMAIN-SUFFIX,ipify.org
-  - DST-PORT,22
+  - SRC-IP-CIDR,192.168.100.50/32
   - DOMAIN-SUFFIX,schwab.com
   - DOMAIN-KEYWORD,schwab
   - DOMAIN-SUFFIX,wallst.com
