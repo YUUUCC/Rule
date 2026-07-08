@@ -29,3 +29,4 @@ payload:
   - DOMAIN-SUFFIX,adobe.io
   - DOMAIN-SUFFIX,adobestats.io
   - DOMAIN-SUFFIX,rockflow.ai
+  - DOMAIN-SUFFIX,ipify.org
