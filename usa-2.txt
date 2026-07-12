@@ -179,6 +179,7 @@ payload:
   - DOMAIN-SUFFIX,nowfoods.com
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-SUFFIX,mayoclinic.com
+  - DOMAIN-SUFFIX,bedtime.news
   - IP-CIDR,192.133.76.0/22
   - IP-CIDR,199.59.148.0/22
   - IP-CIDR,199.96.56.0/21
