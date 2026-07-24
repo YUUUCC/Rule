@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,uscardforum.com
+  - DOMAIN-SUFFIX,valuesider.com
   - DOMAIN-SUFFIX,jdforrepam.com
   - DOMAIN-SUFFIX,uscreditcardguide.com
   - DOMAIN-SUFFIX,netcup.com
