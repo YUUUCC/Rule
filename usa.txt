@@ -1,29 +1,32 @@
 payload:
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,chat.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,crixet.com
+  - DOMAIN-SUFFIX,livekit.cloud
   - DOMAIN-SUFFIX,challenges.cloudflare.com
-  - DOMAIN,gemini.google.com
   - DOMAIN-SUFFIX,client-api.arkoselabs.com
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+  - DOMAIN,production-openaicom-storage.azureedge.net
+  - DOMAIN,openaicomproductionae4b.blob.core.windows.net
+  - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
   - DOMAIN,browser-intake-datadoghq.com
+  - DOMAIN,openai.com.cdn.cloudflare.net
   - DOMAIN-SUFFIX,auth0.com
-  - DOMAIN-SUFFIX,chatgpt.com
-  - DOMAIN-SUFFIX,chatgpt.livekit.cloud
   - DOMAIN-SUFFIX,events.statsigapi.net
   - DOMAIN-SUFFIX,featuregates.org
-  - DOMAIN-SUFFIX,host.livekit.cloud
   - DOMAIN-SUFFIX,identrust.com
   - DOMAIN-SUFFIX,intercom.io
   - DOMAIN-SUFFIX,intercomcdn.com
   - DOMAIN-SUFFIX,launchdarkly.com
-  - DOMAIN-SUFFIX,oaistatic.com
-  - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,observeit.net
   - DOMAIN-SUFFIX,segment.io
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,stripe.com
-  - DOMAIN-SUFFIX,turn.livekit.cloud
   - DOMAIN-KEYWORD,openai
   - DOMAIN-SUFFIX,torrentgalaxy.to
-  - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN,static.cloudflareinsights.com
   - DOMAIN-SUFFIX,ai.com
@@ -39,9 +42,6 @@ payload:
   - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN,generativelanguage.googleapis.com
   - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-  - IP-CIDR,24.199.123.28/32,no-resolve
-  - IP-CIDR,64.23.132.171/32,no-resolve
-  - IP-ASN,20473,no-resolve
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN,notebooklm.google.com
   - DOMAIN-SUFFIX,groq.com
@@ -49,6 +49,11 @@ payload:
   - DOMAIN,cdn.usefathom.com
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.com
+  - DOMAIN-SUFFIX,clau.de
+  - DOMAIN-SUFFIX,claudemcpclient.com
+  - DOMAIN-SUFFIX,claudemcpcontent.com
+  - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,github.blog
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,github.io
@@ -68,13 +73,7 @@ payload:
   - DOMAIN-KEYWORD,generativelanguage
   - DOMAIN,chat.openai.com.cdn.cloudflare.net
   - DOMAIN,openai-api.arkoselabs.com
-  - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-  - DOMAIN,openaicomproductionae4b.blob.core.windows.net
-  - DOMAIN,production-openaicom-storage.azureedge.net
   - DOMAIN-SUFFIX,openaicom.imgix.net
-  - IP-CIDR,24.199.123.28/32
-  - IP-CIDR,64.23.132.171/32
-  - IP-ASN,20473
   - DOMAIN-SUFFIX,atom.io
   - DOMAIN-SUFFIX,dependabot.com
   - DOMAIN-SUFFIX,ghcr.io
@@ -86,6 +85,8 @@ payload:
   - DOMAIN-SUFFIX,github.dev
   - DOMAIN-SUFFIX,githubapp.com
   - DOMAIN-SUFFIX,githubhackathon.com
+  - DOMAIN,servd-anthropic-website.b-cdn.net
+  - DOMAIN,anthropic.com.cdn.cloudflare.net
   - DOMAIN-SUFFIX,githubnext.com
   - DOMAIN-SUFFIX,githubpreview.dev
   - DOMAIN-SUFFIX,githubstatus.com
@@ -105,3 +106,8 @@ payload:
   - DOMAIN-SUFFIX,kravorn.com
   - DOMAIN-SUFFIX,interactivebrokers.com
   - DOMAIN-SUFFIX,ibkr.com
+  - IP-CIDR,24.199.123.28/32,no-resolve
+  - IP-CIDR,64.23.132.171/32,no-resolve
+  - IP-CIDR,160.79.104.0/21,no-resolve
+  - IP-ASN,20473,no-resolve
+  - IP-ASN,399358,no-resolve
