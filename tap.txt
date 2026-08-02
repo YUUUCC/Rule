@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,missav.ws
+  - DOMAIN-SUFFIX,surrit.com
   - DOMAIN-SUFFIX,javdb.com
   - DOMAIN-SUFFIX,06se.com
   - DOMAIN-KEYWORD,hsex
