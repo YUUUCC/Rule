@@ -22,3 +22,4 @@ payload:
   - DOMAIN-KEYWORD,schwab
   - DOMAIN-SUFFIX,wallst.com
   - DOMAIN-SUFFIX,seetacloud.com
+  - DOMAIN-SUFFIX,cell.com
