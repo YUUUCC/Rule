@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,sehuatang.org
   - DOMAIN-SUFFIX,jdbstatic.com
   - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,eporner.com
   - DOMAIN-KEYWORD,cloudflare
   - SRC-IP-CIDR,192.168.100.51/32
   - DST-PORT,22112
