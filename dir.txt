@@ -17,6 +17,8 @@ payload:
   - DOMAIN-SUFFIX,uptodate.com
   - DOMAIN-SUFFIX,bilibili.com
   - DOMAIN-SUFFIX,bilivideo.com
+  - DOMAIN-KEYWORD,cloudflare
+  - DOMAIN-SUFFIX,cloudflare.com
   - SRC-IP-CIDR,192.168.100.50/32
   - DOMAIN-SUFFIX,schwab.com
   - DOMAIN-KEYWORD,schwab
