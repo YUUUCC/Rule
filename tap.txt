@@ -16,5 +16,6 @@ payload:
   - DOMAIN-SUFFIX,turboviplay.com
   - DOMAIN-SUFFIX,supremejav.com
   - DOMAIN-KEYWORD,cloudflare
+  - DOMAIN-SUFFIX,fc2ppvdb.com
   - SRC-IP-CIDR,192.168.100.51/32
   - DST-PORT,22112
