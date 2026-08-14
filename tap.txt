@@ -13,6 +13,8 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,eporner.com
   - DOMAIN-SUFFIX,supjav.com
+  - DOMAIN-SUFFIX,turboviplay.com
+  - DOMAIN-SUFFIX,supremejav.com
   - DOMAIN-KEYWORD,cloudflare
   - SRC-IP-CIDR,192.168.100.51/32
   - DST-PORT,22112
