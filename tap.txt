@@ -14,6 +14,6 @@ payload:
   - DOMAIN-SUFFIX,supjav.com
   - DOMAIN-SUFFIX,turboviplay.com
   - DOMAIN-SUFFIX,supremejav.com
-  - DOMAIN-SUFFIX,fc2ppvdb.com
+  - DOMAIN-SUFFIX,alicesw.com
   - SRC-IP-CIDR,192.168.100.51/32
   - DST-PORT,22112
