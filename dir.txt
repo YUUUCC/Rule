@@ -25,3 +25,4 @@ payload:
   - DOMAIN-SUFFIX,wallst.com
   - DOMAIN-SUFFIX,seetacloud.com
   - DOMAIN-SUFFIX,cell.com
+  - DOMAIN-KEYWORD,dl-a10b-
