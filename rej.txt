@@ -43,3 +43,7 @@ payload:
   - DOMAIN,nishub1.10010.com
   - DOMAIN,opencloud.wostore.cn
   - DOMAIN,ye.dun.163yun.com
+  - DOMAIN,access.mypikpak.com
+  - DOMAIN,access.mypikpak.net
+  - DOMAIN,access.pikpak.me
+  - DOMAIN,access.pikpakdrive.com
