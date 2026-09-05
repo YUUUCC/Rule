@@ -17,5 +17,6 @@ payload:
   - DOMAIN-SUFFIX,alicesw.com
   - DOMAIN-SUFFIX,javlibrary.com
   - DOMAIN-SUFFIX,wallpaperflare.com
+  - DOMAIN-SUFFIX,xiaoyinsi.com
   - SRC-IP-CIDR,192.168.100.51/32
   - DST-PORT,22112
