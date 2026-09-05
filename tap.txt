@@ -16,5 +16,6 @@ payload:
   - DOMAIN-SUFFIX,supremejav.com
   - DOMAIN-SUFFIX,alicesw.com
   - DOMAIN-SUFFIX,javlibrary.com
+  - DOMAIN-SUFFIX,wallpaperflare.com
   - SRC-IP-CIDR,192.168.100.51/32
   - DST-PORT,22112
