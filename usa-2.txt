@@ -117,8 +117,6 @@ payload:
   - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-SUFFIX,nssurge.com
   - DOMAIN-SUFFIX,coalcloud.net
-  - DOMAIN-SUFFIX,18comic.vip
-  - DOMAIN-SUFFIX,18comic.ink
   - DOMAIN-SUFFIX,sinyalee.com
   - DOMAIN,api.imem.app
   - DOMAIN,api.swiftgram.app
