@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,jdbstatic.com
   - DOMAIN-SUFFIX,eporner.com
   - DOMAIN-SUFFIX,supjav.com
+  - DOMAIN-SUFFIX,wallhaven.cc
   - DOMAIN-SUFFIX,turboviplay.com
   - DOMAIN-SUFFIX,supremejav.com
   - DOMAIN-SUFFIX,alicesw.com
