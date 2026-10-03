@@ -3,6 +3,8 @@ payload:
   - DOMAIN-SUFFIX,whalewisdom.com
   - DOMAIN-SUFFIX,valuesider.com
   - DOMAIN-SUFFIX,jdforrepam.com
+  - DOMAIN-SUFFIX,stlouisfed.org
+  - DOMAIN-SUFFIX,bls.gov
   - DOMAIN-SUFFIX,uscreditcardguide.com
   - DOMAIN-SUFFIX,netcup.com
   - DOMAIN-SUFFIX,pincong.rocks
