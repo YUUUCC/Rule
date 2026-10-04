@@ -21,5 +21,6 @@ payload:
   - DOMAIN-SUFFIX,xiaoyinsi.com
   - DOMAIN-SUFFIX,18comic.vip
   - DOMAIN-SUFFIX,18comic.ink
+  - DOMAIN-SUFFIX,polymarket.com
   - SRC-IP-CIDR,192.168.100.51/32
   - DST-PORT,22112
