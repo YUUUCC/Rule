@@ -1,4 +1,39 @@
 payload:
+  - DOMAIN-SUFFIX,dmm.co.jp
+  - DOMAIN-SUFFIX,dmm.com
+  - DOMAIN-SUFFIX,mgstage.com
+  - DOMAIN-SUFFIX,sod.co.jp
+  - DOMAIN-SUFFIX,duga.jp
+  - DOMAIN-SUFFIX,getchu.com
+  - DOMAIN-SUFFIX,avbase.net
+  - DOMAIN-SUFFIX,av-league.com
+  - DOMAIN-SUFFIX,aventertainments.com
+  - DOMAIN-SUFFIX,faleno.jp
+  - DOMAIN-SUFFIX,dahlia-av.jp
+  - DOMAIN-SUFFIX,javbus.com
+  - DOMAIN-SUFFIX,javfree.me
+  - DOMAIN-SUFFIX,madouqu.com
+  - DOMAIN-SUFFIX,theporndb.net
+  - DOMAIN-SUFFIX,fc2.com
+  - DOMAIN-SUFFIX,javten.com
+  - DOMAIN-SUFFIX,fc2ppvdb.com
+  - DOMAIN-SUFFIX,gcolle.net
+  - DOMAIN-SUFFIX,pcolle.com
+  - DOMAIN-SUFFIX,1pondo.tv
+  - DOMAIN-SUFFIX,10musume.com
+  - DOMAIN-SUFFIX,pacopacomama.com
+  - DOMAIN-SUFFIX,muramura.tv
+  - DOMAIN-SUFFIX,caribbeancom.com
+  - DOMAIN-SUFFIX,caribbeancompr.com
+  - DOMAIN-SUFFIX,heyzo.com
+  - DOMAIN-SUFFIX,heydouga.com
+  - DOMAIN-SUFFIX,kin8tengoku.com
+  - DOMAIN-SUFFIX,d2pass.com
+  - DOMAIN-SUFFIX,tokyo-hot.com
+  - DOMAIN-SUFFIX,c0930.com
+  - DOMAIN-SUFFIX,h0930.com
+  - DOMAIN-SUFFIX,h4610.com
+  - DOMAIN-SUFFIX,mywife.cc
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,missav.ws
   - DOMAIN-SUFFIX,surrit.com
