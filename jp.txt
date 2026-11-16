@@ -1,0 +1,21 @@
+payload:
+  - DOMAIN,accounts.dmm.co.jp
+  - DOMAIN,adult.contents.fc2.com
+  - DOMAIN,api.video.dmm.co.jp
+  - DOMAIN,awsimgsrc.dmm.co.jp
+  - DOMAIN,cc3001.dmm.co.jp
+  - DOMAIN,cf.javfree.me
+  - DOMAIN,duga.jp
+  - DOMAIN,ec.sod.co.jp
+  - DOMAIN,fc2db.net
+  - DOMAIN,image.mgstage.com
+  - DOMAIN,img.fc2db.net
+  - DOMAIN,m-template.heyzo.com
+  - DOMAIN,madouqu.com
+  - DOMAIN,mywife.cc
+  - DOMAIN,pics.dmm.co.jp
+  - DOMAIN,rating.gcolle.net
+  - DOMAIN,video.dmm.co.jp
+  - DOMAIN,www.av-league.com
+  - DOMAIN,www.dmm.co.jp
+  - DOMAIN,www.mgstage.com
