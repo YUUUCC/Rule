@@ -19,3 +19,25 @@ payload:
   - DOMAIN,www.av-league.com
   - DOMAIN,www.dmm.co.jp
   - DOMAIN,www.mgstage.com
+  - DOMAIN,dahlia-av.jp
+  - DOMAIN,dl.getchu.com
+  - DOMAIN,faleno.jp
+  - DOMAIN,fc2ppvdb.com
+  - DOMAIN,gcolle.net
+  - DOMAIN,my.tokyo-hot.com
+  - DOMAIN,raw.githubusercontent.com
+  - DOMAIN,www.10musume.com
+  - DOMAIN,www.1pondo.tv
+  - DOMAIN,www.avbase.net
+  - DOMAIN,www.aventertainments.com
+  - DOMAIN,www.c0930.com
+  - DOMAIN,www.caribbeancom.com
+  - DOMAIN,www.caribbeancompr.com
+  - DOMAIN,www.h0930.com
+  - DOMAIN,www.h4610.com
+  - DOMAIN,www.heydouga.com
+  - DOMAIN,www.heyzo.com
+  - DOMAIN,www.kin8tengoku.com
+  - DOMAIN,www.muramura.tv
+  - DOMAIN,www.pacopacomama.com
+  - DOMAIN,www.pcolle.com
