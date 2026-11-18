@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,amxiaolin.com
+  - DOMAIN-SUFFIX,ctc.run
   - DOMAIN-SUFFIX,kytsx.com
   - DOMAIN-SUFFIX,javbus.com
   - DOMAIN-SUFFIX,javfree.me
