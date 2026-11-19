@@ -230,6 +230,7 @@ payload:
   - DOMAIN-SUFFIX,videodelivery.net
   - DOMAIN-SUFFIX,warp.plus
   - DOMAIN-SUFFIX,workers.dev
+  - DOMAIN,vscode.download.prss.microsoft.com
   - IP-CIDR,103.21.244.0/22,no-resolve
   - IP-CIDR,103.22.200.0/22,no-resolve
   - IP-CIDR,103.31.4.0/22,no-resolve
